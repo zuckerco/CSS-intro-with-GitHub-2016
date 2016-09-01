@@ -56,4 +56,4 @@ To get you started, we will **fork** and then **clone** a repo. (Those GitHub wo
 
 **To get back to the top of any repo,** find the link with the repo's name in the top left area of the web page (the page you are reading right now). Click the link!
 
-Go to the top of this page now, and find that link.
+Go to the top of this page now, find that link, and go back to where you started. Subheading: “Forking a repo.”
