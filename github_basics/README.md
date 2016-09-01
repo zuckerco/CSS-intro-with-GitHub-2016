@@ -8,7 +8,7 @@ To learn why GitHub is important, you can read [What Exactly Is GitHub Anyway?](
 
 Right now you’re looking at a GitHub repo. “Repo” is short for “repository.” A repo is a place to store code. More important, it is a place to keep a record of all your changes. It’s also great for sharing and collaborating.
 
-This repo is named “CSS-intro-with-GitHub.” The name of any repo is at the top of the web page.
+This repo is named “CSS-intro-with-GitHub-2016.” The name of any repo is at the top of the web page.
 
 A repo usually contains several folders and files. Some repos contain dozens of folders and files -- maybe even hundreds.
 
@@ -18,9 +18,9 @@ So you can play too, you need to get a GitHub account (if you don’t have one y
 
 If you already have a GitHub account, use that one.
 
-**Note:** Think about your username before you choose it. This is a professional space. Your username will be visible to strangers.
+**Note:** Think about your username before you choose it. This is a professional space. Your username will be visible to strangers. Many people use their real first and last names.
 
-GitHub is free unless you want some [special features](https://github.com/pricing) for collaboration.
+GitHub is free unless you want some [special features](https://github.com/pricing) for collaboration. You will not need those for this class.
 
 You can have only ONE GitHub account per email address.
 
@@ -54,6 +54,6 @@ To get you started, we will **fork** and then **clone** a repo. (Those GitHub wo
 
 **Go back to the top of this repo now,** and you’ll learn how. Instructions are there.
 
-**To get back to the top of any repo,** find the link with the repo's name in the upper-left area of the web page (the page you are reading right now). Click the link!
+**To get back to the top of any repo,** find the link with the repo's name in the top left area of the web page (the page you are reading right now). Click the link!
 
 Go to the top of this page now, and find that link.
