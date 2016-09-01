@@ -28,9 +28,9 @@ The new URL will contain your username:
 
 ## Cloning a repo
 
-Find the button that says **Clone or download** (right side, below the fork button). Click it.
+Find the button that says “**Clone or download**” (right side, below the Fork button). Click it.
 
-Choose “Open in Desktop” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
+Choose “Open in Desktop,” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
 
  ![How to clone](images/clone.png)
 
@@ -38,16 +38,17 @@ You will be asked to choose a place on your hard drive for this repo. Put it ins
 
 **Clone** uses your app (GitHub Desktop) to make a copy of the entire repo on your hard drive, and this copy is tethered to the version on the GitHub.com site (as you will see). You might clone a repo more than once, in some circumstances.
 
-**NOTE:** Windows users, if you are getting an error message, or your clone is not working, [please read this](http://babydatajournalism.tumblr.com/post/85108267252/github-for-windows-cant-clone-repo-stops-at-9).
+**NOTE:** Windows users, if you are getting an error message, or your clone is not working,
+[please read this](http://babydatajournalism.tumblr.com/post/85108267252/github-for-windows-cant-clone-repo-stops-at-9).
 
 ## What you should have now
 
 At GitHub.com, when you go to your user page/profile, you’ll see a link to your new repo (click it to view the repo). If you were on the **Repositories** tab, you'll need to reload the page to see the new repo.
 
-On your hard drive, you’ll see a folder with the same name as that repo. (These two are tethered together, thanks to Git.)
+On your hard drive, you’ll see a folder with the same name as that repo. (These two are tethered together, thanks to Git.) Where is that folder? It is where you told it to be saved, when you cloned it.
 
 * You have a user page at GitHub. *My* user page is: https://github.com/macloo Yours will be similar, but with your username instead of *macloo*.
-* The name of the repo you forked and cloned is: CSS-intro-with-GitHub
+* The name of the repo you forked and cloned is: CSS-intro-with-GitHub-2016
 * That is both the name of your new repo AND the folder name on your hard drive.
 * **DO NOT change the folder name!**
 * In the app, you will see all repos listed by name. Probably you only have one repo, so far. To see inside any local repo, click its name in the app.
