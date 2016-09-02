@@ -34,12 +34,12 @@ You will make ONLY these changes in the HTML file:
 
 1. Change the `link` tag (in the `head`) to use your own renamed CSS file.
 2. Add `article` tags where they make sense. Save and reload to see changes.
-3. Add `header` tags where they make sense. (Think of the entire site as it was described above. What is the logic of the `header` element?)
+3. Add `header` tags where they make sense. (Think of the entire site as it was described above. What is the logic of the `header` element? It is not HEAD and it is not `h1`; the `header` element has a particular use.)
 4. Add `footer` tags where they make sense.
-5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair of `aside` tags (in other words: create one `aside` element that contains the heading and the two paragraphs).
+5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair of `aside` tags (in other words: create one `aside` element that contains that heading and the two paragraphs).
 6. At the bottom of the page, change the words YOUR NAME HERE to your real first and last name, with normal capitalization (not all uppercase).
 
-Those tags are covered in your textbook and also in the
+All of those tags are covered in your textbook and also in the 
 ["HTML Basics" videos on YouTube](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB), parts 5 and 6. The videos will be be very helpful. If you misuse the tags, it will affect your grade.
 
 ## Your color palette
