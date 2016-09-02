@@ -1,5 +1,7 @@
 # Git Pull Requests
 
+**This section is no longer part of the assignment.**
+
 Before following these instructions, make sure all files are committed and sync'd.
 
 Up to now, you have done the following:
