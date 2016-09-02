@@ -19,24 +19,22 @@ The commit message is your description or explanation of those changes. These me
 
 ## How to commit
 
-A good commit message for this case would be: "Completed assignment files."
+A good commit message for this case would be: “Completed assignment files.”
 
-In the Changes window of the app, bottom left, type your commit message in the box that says "Summary." You don't need a description. Click the button that says "Commit to assignment-yourname." **Note:** *assignment-yourname* is the name of your branch. If this says "Commit to master," you have not been working in the correct branch!
+In the Changes window of the app, bottom left, type your commit message in the box that says “Summary.” You don't need a description. Click the button that says “Commit to assignment-yourname.” **Note:** *assignment-yourname* is the name of your branch. If this says “Commit to master,” you have not been working in the correct branch!
 
 ![GitHub Desktop commit field](../images/app-commit-field.png)
+
+If you change anything in your files after this, you will need to commit again. Same procedure, but you should write a different message, such as “fixed color error” -- describe what you changed.
 
 ## How to sync
 
 Do this **after you commit.** You can make many commits, or one, before you sync. In other words, you do not need to sync every time you commit.
 
-In the app, you'll find a sync button at the upper right. To sync, click the button.
+In the app, you'll find a Sync button at the upper right. To sync, click the button.
 
-**Note:** If you have not published this branch yet, the button will say "Publish," not "Sync." Click that.
+**Note:** If you have not published this branch yet, the button will say “Publish,” not “Sync.” Click that.
 
 By syncing, you will make your remote repo (at GitHub) match your local repo (on your hard drive), providing a backup for your work. By keeping local and remote repos synchronized, you can protect your work and also share it with other people.
 
-## Final steps
-
-If you want or need to submit a **pull request** (and to complete this assignment, you do!), there's one last set of instructions for you to follow.
-
-Go back to the top of this repo, where all files and folders are listed. Go into the folder named *git_pull_requests* and follow the instructions there.
+Look at your repo on **github.com** and check to see that your files are there, in the *assignment-yourname* branch, in the *assignment* folder.
