@@ -38,3 +38,13 @@ In the app, you'll find a Sync button at the upper right. To sync, click the but
 By syncing, you will make your remote repo (at GitHub) match your local repo (on your hard drive), providing a backup for your work. By keeping local and remote repos synchronized, you can protect your work and also share it with other people.
 
 Look at your repo on **github.com** and check to see that your files are there, in the *assignment-yourname* branch, in the *assignment* folder.
+
+## Check the rubric
+
+Make sure you have done everything listed in the [rubric](../rubric).
+
+If so, submit the complete URL of your GitHub repo in Canvas.
+
+If you need to change anything in your files: After changing and saving them in your text editor, re-follow the steps on this page to commit again and sync.
+
+If you do not sync, I will NOT see your changes.
