@@ -18,7 +18,7 @@ Open those two files **in your text editor.**
 
 * *starter_file.html*: Do a Save As and name it with your last name (my file would be *mcadams.html*). Make sure you save this new file into the same place (the *assignment* folder).
 
-* *first.css* Do a Save As and name it with your last name (my file would be *mcadams.css*). Make sure you save that file inside the *styles* folder, which is the *assignment* folder.
+* *first.css* Do a Save As and name it with your last name (my file would be *mcadams.css*). Make sure you save that file inside the *styles* folder (which is inside the *assignment* folder).
 
 * CLOSE *starter_file.html* and *first.css* -- you will not change those.
 
