@@ -12,9 +12,15 @@ Up to now, you have done the following:
 
 ## Save As: Two new files
 
-In the *assignment* folder of this repo, you will work with two files, *starter_file.html* and *first.css* (inside the *styles* folder).
+In the *assignment* folder of this repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
-First, you must save copies with new filenames. So immediately after opening *starter_file.html* in your text editor, do a Save As and name it with your last name (my file would be *mcadams.html*). Make sure you save this new file into the same place. Do the same with *first.css* (my file would be *mcadams.css*). Make sure you save that file inside the *styles* folder.
+Open those two files **in your text editor.**
+
+* *starter_file.html*: Do a Save As and name it with your last name (my file would be *mcadams.html*). Make sure you save this new file into the same place (the *assignment* folder).
+
+* *first.css* Do a Save As and name it with your last name (my file would be *mcadams.css*). Make sure you save that file inside the *styles* folder, which is the *assignment* folder.
+
+* CLOSE *starter_file.html* and *first.css* -- you will not change those.
 
 Please be very careful to follow those instructions exactly.
 
@@ -22,7 +28,7 @@ Please be very careful to follow those instructions exactly.
 
 Imagine this file is part of a larger website called “Everything You Need to Know About Web Design.” That's the name of the entire site.
 
-The “Color Theory” article is just one of many such articles. That's the heading of the article on this page.
+The “Color Theory” article is just one of many articles on the site. That's the main heading of the article on this page.
 
 You will make ONLY these changes in the HTML file:
 
@@ -33,15 +39,16 @@ You will make ONLY these changes in the HTML file:
 5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair of `aside` tags (in other words: create one `aside` element that contains the heading and the two paragraphs).
 6. At the bottom of the page, change the words YOUR NAME HERE to your real first and last name, with normal capitalization (not all uppercase).
 
-Those tags are covered in your textbook and also in the ["HTML Basics" videos on YouTube](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB), parts 5 and 6. If you misuse the tags, it will affect your grade.
+Those tags are covered in your textbook and also in the
+["HTML Basics" videos on YouTube](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB), parts 5 and 6. The videos will be be very helpful. If you misuse the tags, it will affect your grade.
 
 ## Your color palette
 
-Create a preliminary color palette using the [Adobe Color](https://color.adobe.com/) site, [ColorPicker.com](http://www.colorpicker.com/), or another tool. You might enjoy [this resource](https://color.adobe.com/explore/most-popular/?time=all) -- choose Edit on any palette to get access to the hexadecimal codes.
+Create a color palette using the [Adobe Color](https://color.adobe.com/) site, [ColorPicker.com](http://www.colorpicker.com/), or another tool. You might enjoy [this resource](https://color.adobe.com/explore/most-popular/?time=all) -- choose Edit on any palette to get access to the hexadecimal codes.
 
 **ALL colors in your stylesheet MUST use hexadecimal codes** (explained in chapter 13 and [this video](https://www.youtube.com/watch?v=iJcIlC4yFIQ&index=22&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB)).
 
-Your preliminary color palette must include four (4) colors that are not white, black or gray. Stay away from overly bright, garish colors. Choose colors that look good side-by-side. They can be shades or hues of one another.
+Your color palette must include four (4) colors that are not white, black or gray. Stay away from overly bright, garish colors. Choose colors that look good side-by-side. They can be shades or hues of one another.
 
 ## Your CSS file
 
@@ -52,7 +59,7 @@ Note that we have not yet covered fonts, margin, padding, and many other element
 * Learn to use color in CSS declarations.
 * Test and modify your style rules.
 
-We also have not covered use of classes and IDs, so you will apply styles only to *element type selectors* such as `body`, `figure` and `h1`.
+We also have not covered use of classes and IDs, so you will apply styles only to *element type selectors* such as `body`, `figure` and `article`.
 
 The [video](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB) for chapter 11 demonstrates how to start using CSS.  
 
@@ -60,7 +67,7 @@ The [video](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30
 
 ### Backgrounds
 
-You must have four colors in your palette. Style the following:
+You must have four colors in your palette (you choose which is color 1, 2, etc.). Style the following:
 
 * Color 1: The background color of both `header` and `footer`. Same color for both.
 * Color 2: The background color of `article`.
@@ -73,7 +80,7 @@ Note that the `body` and `article` selectors are already in the stylesheet. Edit
 
 ### Text
 
-When you are satisfied with those results, move on to the text color that is specified in `body`. For this assignment, use only `#fff` or `#000` for text color in `body`. Choose the one that is most readable onscreen.
+When you are satisfied with those results, move on to the text color that is specified in `body`. For this assignment, use only `#fff` or `#000` for text color in `body`. Choose the one that is most readable onscreen, with good contrast.
 
 After you specify the text color for `body`, reload the page and look at each part of the page. Is there any element in which the contrast is poor for text on background? If so, you must CHANGE the text color for that element to eliminate poor contrast.
 
@@ -85,7 +92,7 @@ aside {
 }
 ```
 
-To change the text color, I will add one line:
+To change the text color only for `aside`, I will add one line:
 
 ```
 aside {
@@ -127,7 +134,7 @@ footer a:link { color: #c363b2; }
 
 Save and reload often to test, test, test. If anything looks messed up, it is probably because of a typing error. Check your file carefully.
 
-Don't worry about the edges of elements. The text is too close to the edges, and it looks ugly. Just live with it. You will learn how to use borders, margin and padding soon enough!
+Don't worry about the edges of elements. The text is too close to the edges, and it looks ugly. Just live with it. You will learn how to fix this, using borders, margin and padding, soon enough!
 
 Remember, the focus of this assignment is using CSS to apply color to specific elements. Mark up the HTML elements correctly and write the CSS for text and background colors correctly.
 
