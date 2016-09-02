@@ -39,7 +39,7 @@ You will make ONLY these changes in the HTML file:
 5. Wrap the "Complementary Colors" heading and the two paragraphs below it in a single pair of `aside` tags (in other words: create one `aside` element that contains that heading and the two paragraphs).
 6. At the bottom of the page, change the words YOUR NAME HERE to your real first and last name, with normal capitalization (not all uppercase).
 
-All of those tags are covered in your textbook and also in the 
+All of those tags are covered in your textbook and also in the
 ["HTML Basics" videos on YouTube](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB), parts 5 and 6. The videos will be be very helpful. If you misuse the tags, it will affect your grade.
 
 ## Your color palette
@@ -88,18 +88,26 @@ Example: In my `aside`, I see that `#000` text on `#510d57` background is very h
 
 ```
 aside {
-    background: #510d57;
+    background: #7E1387;
 }
 ```
+
+![Poor contrast](../images/contrast-poor.png)
 
 To change the text color only for `aside`, I will add one line:
 
 ```
 aside {
-    background: #510d57;
+    background: #7E1387;
     color: #fff;
 }
 ```
+
+Result:
+
+![Better contrast](../images/contrast-better.png)
+
+Still not beautiful, but at least more readable.
 
 ### Pseudo classes
 
