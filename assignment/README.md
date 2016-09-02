@@ -84,7 +84,7 @@ When you are satisfied with those results, move on to the text color that is spe
 
 After you specify the text color for `body`, reload the page and look at each part of the page. Is there any element in which the contrast is poor for text on background? If so, you must CHANGE the text color for that element to eliminate poor contrast.
 
-Example: In my `aside`, I see that `#000` text on `#510d57` background is very hard to read. My stylesheet has this:
+Example: In my `aside`, I see that `#000` text on a `#7E1387` background is very hard to read. My stylesheet has this:
 
 ```
 aside {
