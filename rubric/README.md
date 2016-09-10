@@ -10,7 +10,7 @@
 
 * The new branch is named *assignment-yourname* (*yourname* will be your last name).
 
-* Inside the new branch are two (2) new files with the correct filenames, as described here: https://github.com/macloo/CSS-intro-with-GitHub/tree/master/assignment 
+* Inside the new branch are two (2) new files with the correct filenames, as described here: https://github.com/macloo/CSS-intro-with-GitHub/tree/master/assignment
 
 (All criteria must be met to get 5 points.)
 
@@ -27,8 +27,6 @@ Plus, ALL CRITERIA HERE are met: https://github.com/macloo/CSS-intro-with-GitHub
 ## 15 points:
 
 All of the above. Plus:
-
-* Your pull request was submitted correctly and before the deadline.
 
 * Your colors demonstrate a careful selection of colors that look good together.
 
